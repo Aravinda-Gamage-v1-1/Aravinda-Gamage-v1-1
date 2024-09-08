@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aravinda Gamage</h1>
+<div align="center">
+<br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=ffd700&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Aravinda+Gamage+;Welcome+to+My+Profile!">
+</div>
 <h3 align="center">This is ME, Aravinda. First year undergraduate, from Institute of Software Engineering Aspiring Full-Stack Software Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving himself and wants a platform to grow and excel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinda-gamage-v1-1&label=Profile%20views&color=0e75b6&style=flat" alt="aravinda-gamage-v1-1" /> </p>
