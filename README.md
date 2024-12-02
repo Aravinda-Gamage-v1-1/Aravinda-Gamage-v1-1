@@ -30,6 +30,5 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravinda-gamage-v1-1&show_icons=true&locale=en&layout=compact&theme=merko&card_width=350px" alt="aravinda-gamage-v1-1" /></div>
 <br>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinda-gamage-v1-1&show_icons=true&theme=merko" alt="aravinda-gamage-v1-1" /></div>
-<!-- <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinda-gamage-v1-1&show_icons=true&locale=en" alt="aravinda-gamage-v1-1" /></div> -->
 <br>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinda-gamage-v1-1&show_icons=true&theme=transparent" alt="aravinda-gamage-v1-1" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aravinda-gamage-v1-1&theme=transparent" alt="aravinda-gamage-v1-1" /></div>
