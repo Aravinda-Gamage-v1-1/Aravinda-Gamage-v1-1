@@ -31,4 +31,4 @@
 <br>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinda-gamage-v1-1&show_icons=true&theme=merko" alt="aravinda-gamage-v1-1" /></div>
 <br>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?username=aravinda-gamage-v1-1&theme=merko" alt="aravinda-gamage-v1-1" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinda-gamage-v1-1&theme=merko" /></div>
